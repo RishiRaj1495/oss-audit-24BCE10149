@@ -3,7 +3,7 @@
 **Registration Number:** 24BCE10149  
 **Course:** CSE0002 — Open Source Software | VIT Bhopal University  
 **Software Audited:** Linux Kernel (GPL v2)  
-**Repository:** `OSS-Audit`
+**Repository:** `oss-audit-24BCE10149`
 
 ---
 

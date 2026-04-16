@@ -146,4 +146,7 @@ These scripts are written for educational purposes as part of the VIT Bhopal OSS
 
 ---
 
+<img width="719" height="174" alt="image" src="https://github.com/user-attachments/assets/58a95d19-a215-4f3b-a5d2-790aa4b3edfc" />
+
+
 *VIT Bhopal University | CSE0002 — Open Source Software | Capstone Project*
